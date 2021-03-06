@@ -1,0 +1,57 @@
+h1 {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.date {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.news-article {
+    display: inline-block;
+    width: 30%;
+    padding: 0 10px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italics {
+    font-style: italic;
+}
+
+.highlight {
+    color: skyblue;
+    background-color: black;
+}
+
+.center-classifieds {
+    width: 50%;
+    margin: auto;
+}
+
+.classified {
+    display: inline-block;
+    width: 18%;
+    text-align: center;
+}
+
+.classified-header {
+    width: 15%;
+    font-size: 16px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.classified-full-border {
+    border: 2px solid black;
+}
+
+.classified-bottom-border {
+    border-bottom: 2px solid black;
+}
